@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\bin\Debug\Homework8Dictionary.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\bin\Debug\Homework8Dictionary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\bin\Debug\Homework8Dictionary.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\obj\Debug\Homework8Dictionary.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\obj\Debug\Homework8Dictionary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework8Dictionary\Homework8Dictionary\obj\Debug\Homework8Dictionary.pdb
